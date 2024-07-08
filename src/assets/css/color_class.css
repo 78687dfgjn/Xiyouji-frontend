@@ -1,0 +1,54 @@
+/* 经典蓝色调 */
+.primary-color {
+    color: #007bff; /* 主要文本颜色 */
+    background-color: #f8f9fa; /* 主要背景颜色 */
+}
+
+.secondary-color {
+    color: #6c757d; /* 辅助文本颜色 */
+    background-color: #ffffff; /* 辅助背景颜色 */
+}
+
+/* 温暖的橙色调 */
+.primary-color {
+    color: #ff6c00;
+    background-color: #f8f9fa;
+}
+
+.secondary-color {
+    color: #495057;
+    background-color: #ffffff;
+}
+
+/* 自然绿色调 */
+.primary-color {
+    color: #28a745;
+    background-color: #f8f9fa;
+}
+
+.secondary-color {
+    color: #6c757d;
+    background-color: #ffffff;
+}
+
+/* 柔和的紫色调 */
+.primary-color {
+    color: #6f42c1;
+    background-color: #f8f9fa;
+}
+
+.secondary-color {
+    color: #6c757d;
+    background-color: #ffffff;
+}
+
+/* 活力的红色调 */
+.primary-color {
+    color: #dc3545;
+    background-color: #f8f9fa;
+}
+
+.secondary-color {
+    color: #6c757d;
+    background-color: #ffffff;
+}
